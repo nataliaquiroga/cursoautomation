@@ -18,4 +18,14 @@ describe('Primer conjunto de test cases.', function () {
 
         
     })
+    //testcase2
+    it('Seleccionar producto de card', function () {
+
+        //click Sign in
+        //cy.get('.login').click()
+        cy.get(':nth-child(1) > .product-thumb > .caption > h4 > a').click()
+    
+    
+    })
+    
 })
