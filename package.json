@@ -1,0 +1,23 @@
+{
+  "name": "cypress-curso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliaquiroga/cursoautomation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nataliaquiroga/cursoautomation/issues"
+  },
+  "homepage": "https://github.com/nataliaquiroga/cursoautomation#readme",
+  "devDependencies": {
+    "cypress": "^12.1.0"
+  }
+}
